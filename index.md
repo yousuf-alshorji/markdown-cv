@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Josef Al-Shorji's CV
 ---
-# Isaac Newton
+# Josef Al-Shorji
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
